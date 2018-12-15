@@ -1,9 +1,9 @@
 # 个人简历
 [![NPM version](https://badge.fury.io/js/yangjunlong.png)](http://badge.fury.io/js/yangjunlong)
-> There is only one heroism in the world：to see the world as it is and to love it.
+> 
 
 ## 自我介绍
-> 7年+WEB前端开发经验，主攻前端和PHP开发，有亿级PV产品线项目经验，带领3人团队从零构建一个WEB前端项目，包含了视频播放、地图展示、个人中心等功能。对模块化、组件化、性能优化有一定研究。
+> 研究方向NLP，实习主要做推荐、NLP等工作。
 
 ## 个人信息
 姓名：张乐
@@ -73,21 +73,8 @@ TFIDF、 Word2vec 等 NLP 算法。 熟悉 CNN、 RNN 、 Attention 等深度学
 
 博客：[http://sobird.me](http://sobird.me)
 
-## 最后
-如果你觉得我的简历还不错的话，通过支付宝打赏我
-
-<img src="https://raw.githubusercontent.com/yangjunlong/resume/master/assets/weixin.jpg" alt="微信捐赠" title="微信捐赠" />
-
-又或者，你跟我很熟？
-
-<img src="https://raw.githubusercontent.com/yangjunlong/resume/master/assets/zhuang13.jpg" alt="简历求扩散" title="简历求扩散~" width="250px" />
-
-那么，请`速扩散`此`简历`~
-
-#### 彩蛋? :blush:
-[前端面试题库](https://github.com/yangjunlong/resume/wiki)
 
 ## 致谢
 谨在此向所有在我求职过程中帮助过我的小伙伴们表示感谢！
 
-如果你对此简历有任何问题，欢迎提[issue](https://github.com/yangjunlong/resume/issues)。
+如果你对此简历有任何问题，欢迎提[issue](https://github.com/zle1992/Resume/issues)。
